@@ -206,7 +206,7 @@
       "id": "room",
       "name": "Whole Room",
       "material_icon": "all_inclusive",
-      "description": "This talk is can be enjoyed by anyone"
+      "description": "This talk can be enjoyed by anyone"
     },
     {
       "id": "security",
