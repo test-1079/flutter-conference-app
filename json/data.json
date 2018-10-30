@@ -328,11 +328,11 @@
       "time": "1:00pm",
       "talks": [
         {
-          "speaker_id": "nick",
+          "speaker_id": "alex",
           "track_id": "track1",
           "talk_type_id": "room",
-          "title": "Building Conversational Experiences with Actions on Google",
-          "description": "Actions on Google is a platform to allow developers to build conversational actions across a range of device modalities and form factors including Android phones and smart displays. In this talk you'll learn how to get started, and how extend your services to reach new users in new ways."
+          "title": "Dynamic App Modules: Building For the Next Billion ",
+          "description": "Have you been thinking about modularizing your app, but haven't found the incentive to do so yet? That will change in this session where you will learn to use dynamic app modules to split your monolith into logical features—each of which can be downloaded independently, thus saving users’ data. Learn tips and tricks on building, testing, and deploying your dynamic features. By the end of the session, you will be familiar with the structure of a dynamic app, know how to communicate between the different feature modules, and be able to effectively use the internal track to test them."
         },
         {
           "speaker_id": "adam",
@@ -344,14 +344,14 @@
       ]
     },
     {
-      "time": "1:30pm",
+      "time": "1:35pm",
       "talks": [
         {
-          "speaker_id": "yun",
+          "speaker_id": "simon",
           "track_id": "track1",
           "talk_type_id": "room",
-          "title": "Adventures of an Android Developer in iOS Land",
-          "description": "What happens when a seasoned Android developer finds herself having to learn iOS from the beginning over the course of a few months? This survival guide will discuss lessons learned, differences in developing in the two platforms, and tips and resources to help you transition from Android to iOS development."
+          "title": "React Native: A Beginner's Journey",
+          "description": "React Native and other cross-platform solutions are getting more and more popular. As Android developers, we can either be scared of them or embrace them. In this talk, I'll share my journey from the former to the latter, and what I learnt from it."
         },
         {
           "speaker_id": "benoit",
@@ -363,14 +363,14 @@
       ]
     },
     {
-      "time": "2:00pm",
+      "time": "2:10pm",
       "talks": [
         {
-          "speaker_id": "simon",
+          "speaker_id": "yun",
           "track_id": "track1",
           "talk_type_id": "room",
-          "title": "React Native: A Beginner's Journey",
-          "description": "React Native and other cross-platform solutions are getting more and more popular. As Android developers, we can either be scared of them or embrace them. In this talk, I'll share my journey from the former to the latter, and what I learnt from it."
+          "title": "Adventures of an Android Developer in iOS Land",
+          "description": "What happens when a seasoned Android developer finds herself having to learn iOS from the beginning over the course of a few months? This survival guide will discuss lessons learned, differences in developing in the two platforms, and tips and resources to help you transition from Android to iOS development."
         },
         {
           "speaker_id": "enrique",
@@ -382,14 +382,14 @@
       ]
     },
     {
-      "time": "2:40pm",
+      "time": "2:45pm",
       "talks": [
         {
-          "speaker_id": "alex",
+          "speaker_id": "nick",
           "track_id": "track1",
           "talk_type_id": "room",
-          "title": "Dynamic App Modules: Building For the Next Billion ",
-          "description": "Have you been thinking about modularizing your app, but haven't found the incentive to do so yet? That will change in this session where you will learn to use dynamic app modules to split your monolith into logical features—each of which can be downloaded independently, thus saving users’ data. Learn tips and tricks on building, testing, and deploying your dynamic features. By the end of the session, you will be familiar with the structure of a dynamic app, know how to communicate between the different feature modules, and be able to effectively use the internal track to test them."
+          "title": "Building Conversational Experiences with Actions on Google",
+          "description": "Actions on Google is a platform to allow developers to build conversational actions across a range of device modalities and form factors including Android phones and smart displays. In this talk you'll learn how to get started, and how extend your services to reach new users in new ways."
         },
         {
           "speaker_id": "francisco",
@@ -401,7 +401,7 @@
       ]
     },
     {
-      "time": "3:20pm",
+      "time": "3:35pm",
       "talks": [
         {
           "talk_type_id": "break",
@@ -410,7 +410,7 @@
       ]
     },
     {
-      "time": "3:40pm",
+      "time": "3:55pm",
       "talks": [
         {
           "speaker_id": "kyri",
@@ -422,7 +422,7 @@
       ]
     },
     {
-      "time": "4:15pm",
+      "time": "4:30pm",
       "talks": [
         {
           "speaker_id": "alice",
@@ -434,7 +434,7 @@
       ]
     },
     {
-      "time": "5:00pm",
+      "time": "5:15pm",
       "talks": [
         {
           "talk_type_id": "room",
@@ -444,7 +444,7 @@
       ]
     },
     {
-      "time": "5:30pm",
+      "time": "5:45pm",
       "talks": [
         {
           "track_id": "main",
