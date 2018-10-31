@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
 class Config {
-  static String title = "Flutter Conference app";
+  static String title = "AndroidTO 2018";
   static String jsonUrl =
-      "http://jeff.mimic.ca/p/androidto/data.json";
+      "http://jeff.mimic.ca/p/androidto/data-2.json";
   static String listBackground = "images/list-bg.png";
   static String logo = "images/ato-logo.png";
 
