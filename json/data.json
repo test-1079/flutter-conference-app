@@ -5,17 +5,39 @@
       "address": "101 College St, Toronto, ON M5G 1L7, Canada",
       "image_path": "images/venue.png"
     },
-    "description": "Ships are the transformators of the extraterrestrial attitude.",
+    "description": "AndroidTO is Canada's largest running Android Conference and has been a part of the global Google DevFest initiative since 2014.\n\nThe 2018 Event takes place on Tuesday, November 6 featuring a wide range of talks on topics such as: Android Development, Machine Learning, Accessibility, Security, working with emerging technologies and more!",
     "twitter": "https://twitter.com/androidTO",
     "website": "http://androidto.com",
     "contact_email": "mailto:example@email.com",
     "link_types": [
+      {
+        "id": "sponsor",
+        "name": "Sponsors"
+      },
       {
         "id": "supporter",
         "name": "Supporters"
       }
     ],
     "links": [
+      {
+        "name": "Symbility Intersect",
+        "image_path": "images/sponsors/symbility.png",
+        "website": "https://www.symbilitysolutions.com/symbility-intersect/",
+        "link_type_id": "sponsor"
+      },
+      {
+        "name": "Google Developers",
+        "image_path": "images/sponsors/google-developers.png",
+        "website": "https://developers.google.com/",
+        "link_type_id": "supporter"
+      },
+      {
+        "name": "MaRS",
+        "image_path": "images/sponsors/mars.png",
+        "website": "https://www.marsdd.com",
+        "link_type_id": "supporter"
+      },
       {
         "name": "GDG Toronto Android",
         "image_path": "images/sponsors/gdg.jpg",
@@ -26,12 +48,6 @@
         "name": "Android Pub Night",
         "image_path": "images/sponsors/apn.jpg",
         "website": "http://www.meetup.com/Android-Pub-Night/",
-        "link_type_id": "supporter"
-      },
-      {
-        "name": "Kotlin Toronto",
-        "image_path": "images/sponsors/kotlin.jpg",
-        "website": "https://www.meetup.com/Kotlin-Toronto/",
         "link_type_id": "supporter"
       }
     ]
