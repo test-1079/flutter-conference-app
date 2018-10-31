@@ -374,7 +374,7 @@
           "track_id": "track2",
           "talk_type_id": "technical",
           "title": "Applying Rx Best Practices to Your Architecture",
-          "description": "Your relationship with RxJava doesn't have to be complicated. We find many ways to use it wrong; it is also powerful when used properly. In fact, RxJava can guide you in shaping a sound architecture for your app. We only have to follow a few but decisive principles.\n\nIn this talk, we'll:\n\n\t - See at how side-effect isolation can help avoiding bugs.\n\t - Learn how to share one unique stream between your view and your presenter.\n\t - Discover the ways a unidirectional data flow makes adding new functionality easy and safe.\n\t - Look at how data immutability brings safety to data manipulation.\n\nAfter this talk, you'll be able to write a robust and reactive architecture for your app, taking full advantage of RxJava."
+          "description": "Your relationship with RxJava doesn't have to be complicated. We find many ways to use it wrong; it is also powerful when used properly. In fact, RxJava can guide you in shaping a sound architecture for your app. We only have to follow a few but decisive principles.\n\nIn this talk, we'll:\n\n- See at how side-effect isolation can help avoiding bugs.\n- Learn how to share one unique stream between your view and your presenter.\n- Discover the ways a unidirectional data flow makes adding new functionality easy and safe.\n- Look at how data immutability brings safety to data manipulation.\n\nAfter this talk, you'll be able to write a robust and reactive architecture for your app, taking full advantage of RxJava."
         }
       ]
     },
