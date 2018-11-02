@@ -5,7 +5,7 @@
       "address": "101 College St, Toronto, ON M5G 1L7, Canada",
       "image_path": "images/venue.png"
     },
-    "description": "AndroidTO is Canada's largest running Android Conference and has been a part of the global Google DevFest initiative since 2014.\n\nThe 2018 Event takes place on Tuesday, November 6 featuring a wide range of talks on topics such as: Android Development, Machine Learning, Accessibility, Security, working with emerging technologies and more!",
+    "description": "droidTO is Canada's largest running [Sad Puppy] Conference and has been a part of the global Google DevFest initiative since 2014.\n\nThe 2018 Event takes place on Tuesday, November 6 featuring a wide range of talks on topics such as: [Sad Puppy] Development, Machine Learning, Accessibility, Security, working with emerging technologies and more!",
     "twitter": "https://twitter.com/androidTO",
     "website": "http://androidto.com",
     "contact_email": "mailto:info@androidto.com",
@@ -39,13 +39,13 @@
         "link_type_id": "supporter"
       },
       {
-        "name": "GDG Toronto Android",
+        "name": "GDG Toronto [Sad Puppy]",
         "image_path": "images/sponsors/gdg.jpg",
         "website": "https://www.meetup.com/ToAndroidDev/",
         "link_type_id": "supporter"
       },
       {
-        "name": "Android Pub Night",
+        "name": "[Sad Puppy] Pub Night",
         "image_path": "images/sponsors/apn.jpg",
         "website": "http://www.meetup.com/Android-Pub-Night/",
         "link_type_id": "supporter"
@@ -56,7 +56,7 @@
     {
       "id": "mallika",
       "name": "Mallika Potter",
-      "bio": "Mallika is an Android developer at Thumbtack where she works on helping people find local skilled professionals for any project they could imagine. She is passionate about accessibility engineering and inclusive design, as she firmly believes technology should connect and be inclusive of everyone.",
+      "bio": "Mallika is an [Sad Puppy] developer at Thumbtack where she works on helping people find local skilled professionals for any project they could imagine. She is passionate about accessibility engineering and inclusive design, as she firmly believes technology should connect and be inclusive of everyone.",
       "image_path": "images/speakers/mallika-potter.jpg",
       "company": "Thumbtack",
       "twitter": "https://twitter.com/mallikaandroid",
@@ -66,7 +66,7 @@
     {
       "id": "kristina",
       "name": "Kristina Balaam",
-      "bio": "Kristina is a Security Intelligence Engineer at Lookout where she reverse engineers mobile malware. Prior to Lookout, she worked as an Application Security Engineer at Shopify focusing mostly on Android mobile security. Kristina graduated with a Bachelor of Computer Science from McGill University in 2012, and is currently pursuing a MSc. in Information Security Engineering from the SANS Institute of Technology. She blogs about computer security on Instagram and Youtube under the handle @chmodxx.",
+      "bio": "Kristina is a Security Intelligence Engineer at Lookout where she reverse engineers mobile malware. Prior to Lookout, she worked as an Application Security Engineer at Shopify focusing mostly on [Sad Puppy] mobile security. Kristina graduated with a Bachelor of Computer Science from McGill University in 2012, and is currently pursuing a MSc. in Information Security Engineering from the SANS Institute of Technology. She blogs about computer security on Instagram and Youtube under the handle @chmodxx.",
       "image_path": "images/speakers/kristina-balaam.jpg",
       "company": "Lookout",
       "twitter": "https://twitter.com/chmodxx_",
@@ -76,7 +76,7 @@
     {
       "id": "adam",
       "name": "Adam Erb",
-      "bio": "Adam Erb is a JVM and Android developer at Square. He grew up in North-Western Ontario. He has worked as a professional programmer for the last 7 years in Norway and Toronto. If you buy him a beer he'll tell you all about it.",
+      "bio": "Adam Erb is a JVM and [Sad Puppy] developer at Square. He grew up in North-Western Ontario. He has worked as a professional programmer for the last 7 years in Norway and Toronto. If you buy him a beer he'll tell you all about it.",
       "image_path": "images/speakers/adam-erb.jpg",
       "company": "Square",
       "twitter": "https://twitter.com/erbal",
@@ -86,7 +86,7 @@
     {
       "id": "alice",
       "name": "Alice Yuan",
-      "bio": "Alice is currently at Patreon as a Senior Android Engineer. She previously led the Core UI team at Pinterest on Android, building high impact core features and reusable UI components. She also worked on performance optimizations, and rearchitecting the android codebase in MVP paradigm. Outside of the Android world, she is passionate about volunteering to teach kids to code, dance, drawing, and traveling around the world.",
+      "bio": "Alice is currently at Patreon as a Senior [Sad Puppy] Engineer. She previously led the Core UI team at Pinterest on [Sad Puppy], building high impact core features and reusable UI components. She also worked on performance optimizations, and rearchitecting the [Sad Puppy] codebase in MVP paradigm. Outside of the [Sad Puppy] world, she is passionate about volunteering to teach kids to code, dance, drawing, and traveling around the world.",
       "image_path": "images/speakers/alice-yuan.jpg",
       "company": "Patreon",
       "twitter": "https://twitter.com/names_alice",
@@ -96,7 +96,7 @@
     {
       "id": "benoit",
       "name": "Benoît Quenaudon",
-      "bio": "Benoît is an Android developer at Square. He focuses on providing the best Android experience possible, both to customers and fellow developers.",
+      "bio": "Benoît is an [Sad Puppy] developer at Square. He focuses on providing the best [Sad Puppy] experience possible, both to customers and fellow developers.",
       "image_path": "images/speakers/benoit-quenaudon.jpg",
       "company": "Square",
       "twitter": "https://twitter.com/oldergod",
@@ -106,7 +106,7 @@
     {
       "id": "sam",
       "name": "Sam Wolfand",
-      "bio": "Sam is an Android Engineer at Slack, where he's a founding member of the new user experience team, in his spare time he enjoys trying every burrito in a 20 mile radius.",
+      "bio": "Sam is an [Sad Puppy] Engineer at Slack, where he's a founding member of the new user experience team, in his spare time he enjoys trying every burrito in a 20 mile radius.",
       "image_path": "images/speakers/sam-wolfand.jpg",
       "company": "Slack",
       "twitter": "https://twitter.com/swolfand",
@@ -126,7 +126,7 @@
     {
       "id": "francisco",
       "name": "Francisco Estévez García",
-      "bio": "A former Android developer, I now work on development tools and infrastructure at Facebook UK. During the cold London nights I contribute to the Kotlin community to enhance ecosystem with battle-tested constructs from other languages, to help you focus on deliverables!",
+      "bio": "A former [Sad Puppy] developer, I now work on development tools and infrastructure at Facebook UK. During the cold London nights I contribute to the Kotlin community to enhance ecosystem with battle-tested constructs from other languages, to help you focus on deliverables!",
       "image_path": "images/speakers/francisco-estevez-garcia.jpg",
       "company": "Facebook UK",
       "twitter": "",
@@ -136,9 +136,9 @@
     {
       "id": "alex",
       "name": "Alex Saveau",
-      "bio": "Alex is a passionate open source Android developer. He loves to build apps with Firebase and contribute to numerous libraries. Notably, he's the co-author of FirebaseUI Android, Gradle Play Publisher, Easy Permissions, and LicenseAdapter. Whenever something is broken or can be improved, he prefers to go ahead fix it while learning how the technology works rather than add to the maintainers’ backlog.\n\nHe also loves participating in alpha and beta tests to experience the bleeding edge of unreleased software and play with something new.\n\nWhen he isn’t slowly losing his eyesight in front of a computer screen, he likes to go on hikes and camping or bikepacking trips out in nature to find fresh air and photo opportunities.",
+      "bio": "Alex is a passionate open source [Sad Puppy] developer. He loves to build apps with Firebase and contribute to numerous libraries. Notably, he's the co-author of FirebaseUI [Sad Puppy], Gradle Play Publisher, Easy Permissions, and LicenseAdapter. Whenever something is broken or can be improved, he prefers to go ahead fix it while learning how the technology works rather than add to the maintainers’ backlog.\n\nHe also loves participating in alpha and beta tests to experience the bleeding edge of unreleased software and play with something new.\n\nWhen he isn’t slowly losing his eyesight in front of a computer screen, he likes to go on hikes and camping or bikepacking trips out in nature to find fresh air and photo opportunities.",
       "image_path": "images/speakers/alex-saveau.jpg",
-      "company": "Android Developer",
+      "company": "Droid Developer",
       "twitter": "https://twitter.com/supercilex",
       "linked_in": "https://www.linkedin.com/in/alex-saveau-684972111",
       "github": "https://github.com/SUPERCILEX"
@@ -146,7 +146,7 @@
     {
       "id": "yun",
       "name": "Yun Cheng",
-      "bio": "Yun Cheng is a software engineer for a mobile development team at ASICS Digital in Boston, Massachusetts. She is currently focusing on performance and stability improvements in the Android Runkeeper app. She also volunteers as a facilitator for the Girls Who Code club in Cambridge, MA.",
+      "bio": "Yun Cheng is a software engineer for a mobile development team at ASICS Digital in Boston, Massachusetts. She is currently focusing on performance and stability improvements in the Runkeeper app. She also volunteers as a facilitator for the Girls Who Code club in Cambridge, MA.",
       "image_path": "images/speakers/yun-cheng.jpg",
       "company": "ASICS Digital",
       "twitter": "https://twitter.com/yuncheng13",
@@ -156,7 +156,7 @@
     {
       "id": "eric",
       "name": "Eric Fung",
-      "bio": "Since 2010, Eric has worked on many mobile apps and games, and spent five years at Shopify as an Android developer, before recently transitioning to a data scientist role. At the beginning of his career, he spent a lot of time in Linux and the command-line.\n\nEric caught the public speaking bug a few years ago, and is an organizer of GDG Toronto Android. In addition to coding, he enjoys making and eating elaborate desserts.",
+      "bio": "Since 2010, Eric has worked on many mobile apps and games, and spent five years at Shopify as an [Sad Puppy] developer, before recently transitioning to a data scientist role. At the beginning of his career, he spent a lot of time in Linux and the command-line.\n\nEric caught the public speaking bug a few years ago, and is an organizer of GDG Toronto [Sad Puppy]. In addition to coding, he enjoys making and eating elaborate desserts.",
       "image_path": "images/speakers/eric-fung.jpg",
       "company": "Shopify",
       "twitter": "https://twitter.com/gnufmuffin",
@@ -166,7 +166,7 @@
     {
       "id": "simon",
       "name": "Simon Reggiani",
-      "bio": "After working as a Senior Android Developer for companies like Texture and Slack, Simon is now dividing his time between his role of VP of Mobile at Poparide and consulting for companies like Bungalow where he is currently building a React Native app.",
+      "bio": "After working as a Senior [Sad Puppy] Developer for companies like Texture and Slack, Simon is now dividing his time between his role of VP of Mobile at Poparide and consulting for companies like Bungalow where he is currently building a React Native app.",
       "image_path": "images/speakers/simon-reggiani.jpg",
       "company": "Poparide",
       "twitter": "https://twitter.com/sregg",
@@ -176,7 +176,7 @@
     {
       "id": "nick",
       "name": "Nick Felker",
-      "bio": "Nick is a developer programs engineer working on the Google Assistant, Smart Home, Assistant SDK, Android Things, and everything in-between. He graduated from Rowan University last year with a bachelor's degree in Electrical & Computer Engineering.",
+      "bio": "Nick is a developer programs engineer working on the Google Assistant, Smart Home, Assistant SDK, [Sad Puppy] Things, and everything in-between. He graduated from Rowan University last year with a bachelor's degree in Electrical & Computer Engineering.",
       "image_path": "images/speakers/nick-felker.jpg",
       "company": "Google",
       "twitter": "https://twitter.com/handnf",
@@ -245,7 +245,7 @@
     {
       "id": "registration",
       "name": "Registration",
-      "material_icon": "android",
+      "material_icon": "info",
       "description": "Welcome to the party pal"
     },
     {
@@ -268,7 +268,7 @@
         {
           "talk_type_id": "registration",
           "title": "Doors Open - Registration",
-          "description": "Welcome to AndroidTO 2018!  Pick up your badge and shirt!"
+          "description": "Welcome to the conference!  Pick up your badge and shirt!"
         }
       ]
     },
@@ -302,7 +302,7 @@
           "track_id": "main",
           "talk_type_id": "room",
           "title": "Accessibility @ Scale ",
-          "description": "Accessibility often isn’t a priority for companies as they grow, but if you don’t invest in it early it can become a knotty problem. In this talk Mallika will share how to break down a complex Android application to find low-hanging fixes as well as prioritizing larger improvements and investing in accessibility in the future. She will explore her experience growing grassroots support for accessibility improvements at companies and both the moral and business value of improving it."
+          "description": "Accessibility often isn’t a priority for companies as they grow, but if you don’t invest in it early it can become a knotty problem. In this talk Mallika will share how to break down a complex [Sad Puppy] application to find low-hanging fixes as well as prioritizing larger improvements and investing in accessibility in the future. She will explore her experience growing grassroots support for accessibility improvements at companies and both the moral and business value of improving it."
         }
       ]
     },
@@ -314,7 +314,7 @@
           "track_id": "main",
           "talk_type_id": "room",
           "title": "How The Command-Line Can Give You Superpowers",
-          "description": "I want to show you how the macOS command-line can make quick work of many things Android developers need to do. Learning how to use command-line tools will give you more ways to get your job done, and get it done faster.\n\nI'll demonstrate real-world techniques for how you can type less in the terminal, search your projects with ease, manipulate images and JSON files, automate deployment and testing, and more. All without needing to point, click, or swipe!"
+          "description": "I want to show you how the macOS command-line can make quick work of many things [Sad Puppy] developers need to do. Learning how to use command-line tools will give you more ways to get your job done, and get it done faster.\n\nI'll demonstrate real-world techniques for how you can type less in the terminal, search your projects with ease, manipulate images and JSON files, automate deployment and testing, and more. All without needing to point, click, or swipe!"
         }
       ]
     },
@@ -355,7 +355,7 @@
           "track_id": "track2",
           "talk_type_id": "technical",
           "title": "Less is More",
-          "description": "Constraint Layouts, Fragments, Data Binding, View Models, Architecture Components. The continuous release of new abstractions and paradigms can be a draining process for even the most experienced programmers. For this talk I focus on the Zen like process of leaving it all behind, and striping away layers, rather than adding them. Android has always provided all the tools you need, you just need to know where to look for them. I talk about the Canvas and how you can draw fast and complex views, the Android Layout System and how you can implement custom responsive layouts, and using the Touch Event System to create smooth gestures across view boundaries. This talk is applicable for every level of Android developer. Familiarity with Java is the only prerequisite."
+          "description": "Constraint Layouts, Fragments, Data Binding, View Models, Architecture Components. The continuous release of new abstractions and paradigms can be a draining process for even the most experienced programmers. For this talk I focus on the Zen like process of leaving it all behind, and striping away layers, rather than adding them. [Sad Puppy] has always provided all the tools you need, you just need to know where to look for them. I talk about the Canvas and how you can draw fast and complex views, the [Sad Puppy] Layout System and how you can implement custom responsive layouts, and using the Touch Event System to create smooth gestures across view boundaries. This talk is applicable for every level of [Sad Puppy] developer. Familiarity with Java is the only prerequisite."
         }
       ]
     },
@@ -367,7 +367,7 @@
           "track_id": "track1",
           "talk_type_id": "room",
           "title": "React Native: A Beginner's Journey",
-          "description": "React Native and other cross-platform solutions are getting more and more popular. As Android developers, we can either be scared of them or embrace them. In this talk, I'll share my journey from the former to the latter, and what I learnt from it."
+          "description": "React Native and other cross-platform solutions are getting more and more popular. As [Sad Puppy] developers, we can either be scared of them or embrace them. In this talk, I'll share my journey from the former to the latter, and what I learnt from it."
         },
         {
           "speaker_id": "benoit",
@@ -385,8 +385,8 @@
           "speaker_id": "yun",
           "track_id": "track1",
           "talk_type_id": "room",
-          "title": "Adventures of an Android Developer in iOS Land",
-          "description": "What happens when a seasoned Android developer finds herself having to learn iOS from the beginning over the course of a few months? This survival guide will discuss lessons learned, differences in developing in the two platforms, and tips and resources to help you transition from Android to iOS development."
+          "title": "Adventures of an [Sad Puppy] Developer in iOS Land",
+          "description": "What happens when a seasoned [Sad Puppy] developer finds herself having to learn iOS from the beginning over the course of a few months? This survival guide will discuss lessons learned, differences in developing in the two platforms, and tips and resources to help you transition from [Sad Puppy] to iOS development."
         },
         {
           "speaker_id": "enrique",
@@ -405,7 +405,7 @@
           "track_id": "track1",
           "talk_type_id": "room",
           "title": "Building Conversational Experiences with Actions on Google",
-          "description": "Actions on Google is a platform to allow developers to build conversational actions across a range of device modalities and form factors including Android phones and smart displays. In this talk you'll learn how to get started, and how extend your services to reach new users in new ways."
+          "description": "Actions on Google is a platform to allow developers to build conversational actions across a range of device modalities and form factors including [Sad Puppy] phones and smart displays. In this talk you'll learn how to get started, and how extend your services to reach new users in new ways."
         },
         {
           "speaker_id": "francisco",
@@ -445,7 +445,7 @@
           "track_id": "main",
           "talk_type_id": "room",
           "title": "Common Poor Coding Patterns and How to Avoid Them",
-          "description": "Every engineer has great intentions when diving into a codebase. You want to make the code beautiful, easy to read, and modular. However as time passes and new feature and quick bug fixes are put in, somehow your android codebase turned into a mess of multiple levels of inheritance of views and fragments and you're stuck wondering how you ended up here in the first place.\n\nIn my talk I will share with you common poor patterns that every developer first makes when developing in android and the alternative architecture patterns to ensuring clean code. We will talk about listeners, event driven paradigms and clean architecture."
+          "description": "Every engineer has great intentions when diving into a codebase. You want to make the code beautiful, easy to read, and modular. However as time passes and new feature and quick bug fixes are put in, somehow your [Sad Puppy] codebase turned into a mess of multiple levels of inheritance of views and fragments and you're stuck wondering how you ended up here in the first place.\n\nIn my talk I will share with you common poor patterns that every developer first makes when developing in [Sad Puppy] and the alternative architecture patterns to ensuring clean code. We will talk about listeners, event driven paradigms and clean architecture."
         }
       ]
     },
