@@ -61,7 +61,6 @@ android {
     buildTypes {
         release {
             signingConfig signingConfigs.release
-            minifyEnabled true
         }
         applicationVariants.all { variant ->
             variant.outputs.all { output ->
