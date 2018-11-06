@@ -240,7 +240,7 @@
       "id": "break",
       "name": "Break",
       "material_icon": "free_breakfast",
-      "description": "Time for a break!"
+      "description": "Ritual lunch!"
     },
     {
       "id": "registration",
@@ -336,7 +336,7 @@
         {
           "talk_type_id": "lunch",
           "title": "Lunch",
-          "description": "Eat some food. Have a drink."
+          "description": "Enjoy lunch on us from your favourite nearby RITUAL restaurant. $15.00 will be added to your RITUAL account on November 6th. Here are the details on how RITUAL lunch will work:\r\n\r\nI already have a RITUAL account:\r\n\r\n    If your Ritual account is associated with the email you used to purchase your ticket, then you will have $15 loaded onto your account on November 6th for your AndroidTO Lunch.\r\n    If your Ritual account is associated with a different email address, please visit the registration booth, and we will have your credits added.\r\n    If you have an account and do not see the credits added on Nov 6th please visit the registration booth.\r\n\r\nI do not have a RITUAL account:\r\n\r\n    If you do not currently have RITUAL installed on your phone, please visit https:\/\/ritual.co\/ANDROIDTO to download the app, register with the email address you used for AndroidTO registration and receive your $15 lunch credit!.\r\n\r\nA map of the closest restaurants can be accessed in your RITUAL app, along with the approximate distance to the restaurant and the length of time it will take to get to them."
         }
       ]
     },
