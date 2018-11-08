@@ -202,12 +202,12 @@
     },
     {
       "id": "track1",
-      "name": "Track 1",
+      "name": "Track 1 (Big room)",
       "color": "#CC6666"
     },
     {
       "id": "track2",
-      "name": "Track 2",
+      "name": "Track 2 (Small room)",
       "color": "#B5BD68"
     }
   ],
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "time": "9:35am",
+      "time": "9:40am",
       "talks": [
         {
           "speaker_id": "mallika",
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "time": "10:30am",
+      "time": "10:25am",
       "talks": [
         {
           "speaker_id": "eric",
@@ -354,7 +354,7 @@
           "speaker_id": "adam",
           "track_id": "track2",
           "talk_type_id": "technical",
-          "title": "Less is More",
+          "title": "A Skeptics Guide to Programmatic Views on Android",
           "description": "Constraint Layouts, Fragments, Data Binding, View Models, Architecture Components. The continuous release of new abstractions and paradigms can be a draining process for even the most experienced programmers. For this talk I focus on the Zen like process of leaving it all behind, and striping away layers, rather than adding them. Android has always provided all the tools you need, you just need to know where to look for them. I talk about the Canvas and how you can draw fast and complex views, the Android Layout System and how you can implement custom responsive layouts, and using the Touch Event System to create smooth gestures across view boundaries. This talk is applicable for every level of Android developer. Familiarity with Java is the only prerequisite."
         }
       ]
@@ -363,56 +363,56 @@
       "time": "1:35pm",
       "talks": [
         {
-          "speaker_id": "simon",
-          "track_id": "track1",
-          "talk_type_id": "room",
-          "title": "React Native: A Beginner's Journey",
-          "description": "React Native and other cross-platform solutions are getting more and more popular. As Android developers, we can either be scared of them or embrace them. In this talk, I'll share my journey from the former to the latter, and what I learnt from it."
-        },
-        {
           "speaker_id": "benoit",
-          "track_id": "track2",
+          "track_id": "track1",
           "talk_type_id": "technical",
           "title": "Applying Rx Best Practices to Your Architecture",
           "description": "Your relationship with RxJava doesn't have to be complicated. We find many ways to use it wrong; it is also powerful when used properly. In fact, RxJava can guide you in shaping a sound architecture for your app. We only have to follow a few but decisive principles.\n\nIn this talk, we'll:\n\n- See at how side-effect isolation can help avoiding bugs.\n- Learn how to share one unique stream between your view and your presenter.\n- Discover the ways a unidirectional data flow makes adding new functionality easy and safe.\n- Look at how data immutability brings safety to data manipulation.\n\nAfter this talk, you'll be able to write a robust and reactive architecture for your app, taking full advantage of RxJava."
+        },
+       {
+          "speaker_id": "simon",
+          "track_id": "track2",
+          "talk_type_id": "room",
+          "title": "React Native: A Beginner's Journey",
+          "description": "React Native and other cross-platform solutions are getting more and more popular. As Android developers, we can either be scared of them or embrace them. In this talk, I'll share my journey from the former to the latter, and what I learnt from it."
         }
       ]
     },
     {
       "time": "2:10pm",
       "talks": [
-        {
-          "speaker_id": "yun",
-          "track_id": "track1",
-          "talk_type_id": "room",
-          "title": "Adventures of an Android Developer in iOS Land",
-          "description": "What happens when a seasoned Android developer finds herself having to learn iOS from the beginning over the course of a few months? This survival guide will discuss lessons learned, differences in developing in the two platforms, and tips and resources to help you transition from Android to iOS development."
-        },
-        {
+      {
           "speaker_id": "enrique",
-          "track_id": "track2",
+          "track_id": "track1",
           "talk_type_id": "technical",
           "title": "Kotlin/Native for Multiplatform Development",
           "description": "Reliable multiplatform development has been the Holy Grail for Mobile Developers since its inception. Many frameworks did appear and disappear. Kotlin/Native has come strongly, and since it is still in Beta version there are some caveats about this. Is Kotlin/Native reliable for my app? Is it production-ready?\n\nCome to this talk to learn what Kotlin/Native can do for you."
+        },
+        {
+          "speaker_id": "yun",
+          "track_id": "track2",
+          "talk_type_id": "room",
+          "title": "Adventures of an Android Developer in iOS Land",
+          "description": "What happens when a seasoned Android developer finds herself having to learn iOS from the beginning over the course of a few months? This survival guide will discuss lessons learned, differences in developing in the two platforms, and tips and resources to help you transition from Android to iOS development."
         }
       ]
     },
     {
       "time": "2:45pm",
       "talks": [
-        {
-          "speaker_id": "nick",
-          "track_id": "track1",
-          "talk_type_id": "room",
-          "title": "Building Conversational Experiences with Actions on Google",
-          "description": "Actions on Google is a platform to allow developers to build conversational actions across a range of device modalities and form factors including Android phones and smart displays. In this talk you'll learn how to get started, and how extend your services to reach new users in new ways."
-        },
-        {
+       {
           "speaker_id": "francisco",
-          "track_id": "track2",
+          "track_id": "track1",
           "talk_type_id": "room",
           "title": "Simple Dependency Management in Kotlin ",
           "description": "In this talk we will discover how we can use just Kotlin features to inject dependencies through our codebase. Using this novel approach we'll introduce the concept of Type Classes, a unit of abstraction and configuration used to architect apps and libraries."
+        },
+        {
+          "speaker_id": "nick",
+          "track_id": "track2",
+          "talk_type_id": "room",
+          "title": "Building Conversational Experiences with Actions on Google",
+          "description": "Actions on Google is a platform to allow developers to build conversational actions across a range of device modalities and form factors including Android phones and smart displays. In this talk you'll learn how to get started, and how extend your services to reach new users in new ways."
         }
       ]
     },
@@ -454,8 +454,8 @@
       "talks": [
         {
           "talk_type_id": "room",
-          "title": "Flutter",
-          "description": "TBD"
+          "title": "Flutter: In Real Life for Real People",
+          "description": "Real people discuss a much hyped cross platform framework for building mobile allocations.  As with many other frameworks, Flutter carries the promise of ease-of-use, high performance and decreased development effort to deploy to multiple platforms. Does it deliver the goods? You will find out."
         }
       ]
     },
